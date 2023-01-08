@@ -8,7 +8,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -39,8 +38,6 @@ Users should be able to:
 
 - Solution URL: [https://github.com/PaulaR-05/interactive-rating-component]
 - Github URL: [https://github.com/PaulaR-05]
-
-## My process
 
 ### Built with
 
