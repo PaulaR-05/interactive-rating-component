@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Overview
 
-Here is my solution to the NFT preview card component solution ✨
+Here is my solution to the Interactive rating component ✨
 
 😊 Happy to hear any feedback and advice. Thanks!
 
@@ -26,8 +26,10 @@ Here is my solution to the NFT preview card component solution ✨
 
 Users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
@@ -35,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://paular-05.github.io/NFT-preview-card-component-solution/]
-- Github URL: [https://github.com/PaulaR-05/NFT-preview-card-component-solution]
+- Solution URL: [https://github.com/PaulaR-05/interactive-rating-component]
+- Github URL: [https://github.com/PaulaR-05]
 
 ## My process
 
@@ -45,6 +47,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Javascript
 
 ## Author
 
