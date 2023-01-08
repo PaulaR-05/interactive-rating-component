@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/PaulaR-05/interactive-rating-component]
-- Github URL: [https://github.com/PaulaR-05]
+- Solution URL: [https://paular-05.github.io/interactive-rating-component/]
+- Github URL: [https://github.com/PaulaR-05/interactive-rating-component]
 
 ### Built with
 
